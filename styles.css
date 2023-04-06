@@ -7,6 +7,7 @@
 
 .navigation{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .Logo {
