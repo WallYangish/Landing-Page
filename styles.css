@@ -11,12 +11,13 @@
 }
 
 .Logo {
-
+    display: flex;
+    align-items: center;
 }
 
 .Links {
     display: flex;
-    align-content: center;
+    align-items: center;
     justify-content: flex-end;
 }
 
