@@ -47,8 +47,8 @@ body {
   background-color: #1f2937;
   color: #f9faf8;
   display: flex;
-  justify-content: center;
-  padding: 60px;
+  justify-content: space-evenly;
+  padding: 90px;
 }
 
 .maintext {
