@@ -96,8 +96,8 @@ body {
   justify-content: center;
 }
 
-.hero-image > * {
-  max-width: fit-content;
+img {
+  width: 100%;
 }
 /* Content */
 
