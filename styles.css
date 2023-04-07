@@ -1,52 +1,72 @@
-.container {
-    display: flex;
-    flex-direction: column;
+body {
+  font-family: "Roboto", sans-serif;
 }
 
 /* Navigation */
 
-.navigation{
-    display: flex;
-    flex-wrap: wrap;
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1f2937;
 }
 
 .Logo {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+  margin-left: 42px;
+  color: #f9faf8;
+  font-weight: 700;
 }
 
-.Links {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
+.navlinks {
+  display: flex;
+  align-items: center;
+  margin-right: 42px;
+  gap: 20px;
 }
+
+.link a {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  color: #e5e7eb;
+  font-size: 18px;
+  text-decoration: none;
+}
+.#
 
 /* Hero */
 
 .hero {
-
+  display: flex;
 }
 
 /* Content */
 
 .content {
-    
+  display: flex;
+  flex-direction: column;
+}
+
+.info {
+  display: flex;
 }
 
 /* Quote */
 
 .quote {
-
+  display: flex;
 }
 
 /* Sign-up */
 
 .signup {
-
+  display: flex;
 }
 
 /* Footer */
 
 .footer {
-
+  display: flex;
 }
