@@ -89,7 +89,8 @@ body {
 .hero-image {
   align-items: center;
   display: flex;
-  justify-content: center;
+  gap: 16px;
+  flex: auto;
 }
 
 /* Content */
