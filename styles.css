@@ -49,7 +49,7 @@ body {
   display: flex;
   justify-content: space-evenly;
   padding: 90px;
-  flex;
+  flex: 1 1 50%;
 }
 
 .maintext {
@@ -96,9 +96,7 @@ body {
   justify-content: center;
 }
 
-img {
-  width: 100%;
-}
+
 /* Content */
 
 .content {
