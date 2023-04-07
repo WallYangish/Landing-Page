@@ -49,6 +49,7 @@ body {
   display: flex;
   justify-content: space-evenly;
   padding: 90px;
+  flex;
 }
 
 .maintext {
@@ -91,6 +92,7 @@ body {
   display: flex;
   gap: 16px;
   flex: auto;
+  overflow: auto;
 }
 
 /* Content */
