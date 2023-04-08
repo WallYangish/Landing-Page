@@ -21,14 +21,14 @@ body {
   display: flex;
   font-size: 24px;
   font-weight: 700;
-  padding-left: 42px;
+  padding-left: 100px;
 }
 
 .navlinks {
   align-items: center;
   display: flex;
-  gap: 20px;
-  padding-right: 42px;
+  gap: 50px;
+  padding-right: 100px;
 }
 
 .link a {
@@ -48,8 +48,8 @@ body {
   color: #f9faf8;
   display: flex;
   justify-content: space-evenly;
-  padding: 90px;
-  flex: 1 1 50%;
+  padding: 100px;
+  flex: 1 1 auto;
 }
 
 .maintext {
@@ -90,12 +90,12 @@ body {
 .hero-image {
   align-items: center;
   display: flex;
-  gap: 16px;
-  flex: 1 1 auto;
+  gap: 30px;
+  flex: 1 1 100em;
   flex-wrap: wrap;
   justify-content: center;
+  padding-right: 90px;
 }
-
 
 /* Content */
 
