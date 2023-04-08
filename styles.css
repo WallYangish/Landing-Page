@@ -115,6 +115,9 @@ body {
   justify-content: center;
 }
 
+.info > * {
+}
+
 /* Quote */
 
 .quote {
